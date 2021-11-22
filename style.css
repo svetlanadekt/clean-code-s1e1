@@ -17,6 +17,10 @@ body {
     font-family: fantasy, cursive;
 }
 
+#topSectionForAddingElementToList {
+  margin: 1em 0 1em 0;
+}
+
 @media (max-width:768px) {
 .aaa { text-align: center;
 }
