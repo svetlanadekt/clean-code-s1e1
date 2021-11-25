@@ -80,8 +80,7 @@ button {
 
 /* Heading */
 
-.subtitle,
-.new-task-label {
+.subtitle {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -89,6 +88,10 @@ button {
   padding: 30px 0 10px;
   margin: 0;
   text-transform: uppercase;
+}
+
+.margin {
+  margin-bottom: 20px;
 }
 
 .input-text {
